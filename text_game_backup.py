@@ -1,4 +1,4 @@
-
+import random
 forward = 0
 backward = 0 
 left = 0
